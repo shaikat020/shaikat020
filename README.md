@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Tahsin Azad Shaikat</h1>
-<h3 align="center">A student from BAIUST in Bangladesh</h3>
+<h3 align="center">Undergraduate Student from BAIUST in Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikat020&label=Profile%20views&color=0e75b6&style=flat" alt="shaikat020" /> </p>
 
