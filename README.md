@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**shaikat020/shaikat020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <h1 align="center">Hi 👋, I'm Md. Tahsin Azad Shaikat</h1>
 <h3 align="center">Undergraduate Student from BAIUST in Bangladesh</h3>
 
