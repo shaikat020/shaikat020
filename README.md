@@ -1,6 +1,4 @@
-## Hi there 👋
-
-
+![logo](https://github.com/shaikat020/shaikat020/blob/main/logo.jpeg) 
 <h1 align="center">Hi 👋, I'm Md. Tahsin Azad Shaikat</h1>
 <h3 align="center">Undergraduate Student from BAIUST in Bangladesh</h3>
 
