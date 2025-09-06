@@ -23,10 +23,23 @@
 # My GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikat020&show_icons=true&theme=tokyonight&icon_color=FFD43B" alt="GitHub Stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shaikat020&show_icons=true&theme=tokyonight&icon_color=FFD43B">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shaikat020&show_icons=true&theme=light&icon_color=FFD43B&text_color=4B4B4B&bg_color=F8F9FA">
+    <img src="https://github-readme-stats.vercel.app/api?username=shaikat020&show_icons=true&theme=light&icon_color=FFD43B&text_color=4B4B4B&bg_color=F8F9FA" 
+         alt="GitHub Stats">
+  </picture>
 </p>
+
 
 ## Most Used Languages  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat020&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  <picture>
+    <!-- Dark mode: tokyonight -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat020&layout=compact&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat020&layout=compact&theme=light&bg_color=F8F9FA&text_color=4B4B4B&title_color=333333">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat020&layout=compact&theme=light&bg_color=F8F9FA&text_color=4B4B4B&title_color=333333" 
+         alt="Most Used Languages">
+  </picture>
 </p>
+
