@@ -43,3 +43,15 @@
   </picture>
 </p>
 
+## Current Streak
+<p align="left">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shaikat020&theme=tokyonight">
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shaikat020&heme=light&bg_color=F8F9FA&text_color=4B4B4B&title_color=333333">
+    <!-- Fallback for environments that don't support prefers-color-scheme -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikat020&heme=light&bg_color=F8F9FA&text_color=4B4B4B&title_color=333333" alt="Current Streak" />
+  </picture>
+</p>
+
