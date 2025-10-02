@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Python, Django, JavaScript**
 
 - 📫 How to reach me **tahsin.azad.skt@gmail.com**
 
